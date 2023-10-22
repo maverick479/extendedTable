@@ -1,0 +1,24 @@
+.arrow {
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  margin-right: 10px; 
+}
+
+.arrow.expanded {
+  transform: rotate(90deg);
+}
+
+.cell-id {
+  width: 10%;
+}
+
+.cell-text1 {
+  width: 35%;
+}
+
+.cell-text2 {
+  width: 35%;
+}
+.select{
+  width: 20%;
+}
